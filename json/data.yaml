@@ -1,0 +1,11 @@
+vname: peter
+name: wo
+adresse:
+- eyba
+- 47
+- 68231
+- wohn:
+    ort: kuzenhausen
+    home: bunker
+    etage: 2
+alter: 77

@@ -1,0 +1,24 @@
+---
+appserver:
+- vm6
+dbserver:
+- vm2
+fileserver:
+- vm5
+idxserver:
+- vm3
+oracle:
+- vm3
+- vm4
+- vm5
+sles:
+- vm6
+ubuntu:
+- vm1
+- vm2
+- vm7
+webserver:
+- vm1
+- vm4
+
+---
