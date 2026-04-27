@@ -53,4 +53,3 @@ def create_inventory(groups, vm_obj, out_file):
 
 if __name__=='__main__':
     create_inventory(groups, vm_dat, file)
-    
