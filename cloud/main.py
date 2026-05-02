@@ -18,7 +18,7 @@ def make_net(conn):
     """
 
     # https://docs.openstack.org/openstacksdk/latest/user/resources/network/v2/network.html#openstack.network.v2.network.Network
-    net = conn.find_network("1070-net")
+    net = conn.network.find_network("1070-net")
     if not net:
         net = conn.create_network(
             name = "1070-net",
@@ -27,9 +27,9 @@ def make_net(conn):
             )
         LOG.info(f"Neues Netz erstellt: {net}")
 
-    snet_pool = conn.find_subnet_pool('1070-snet-pool')
+    snet_pool = conn.network.find_subnet_pool('1070-snet-pool')
     if not snet_pool:
-        snet_pool = conn.create_subnet_pool(
+        snet_pool = conn.network.create_subnet_pool(
             ip_version = 4,
             name = '1070-snet-pool',
             prefixes = ['10.0.0.0/23']
@@ -39,7 +39,7 @@ def make_net(conn):
     # https://docs.openstack.org/openstacksdk/latest/user/resources/network/v2/subnet.html#openstack.network.v2.subnet.Subnet
     snet = conn.find_subnet("1070-subnet", network_id=net.id, subnet_pool_id=snet_pool.id, ignore_missing=False)
     if not snet:
-        snet = net.create_subnet(
+        snet = conn.network.create_subnet(
             name = "1070-subnet",
             network_id = net.id,
             ip_version = 4,
