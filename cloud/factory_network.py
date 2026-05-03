@@ -10,9 +10,10 @@ logging.basicConfig(
 LOG = logging.getLogger('test')
 
 cloud = 'pw1070'
+dat_file = 'data.json'
 conn = openstack.connection(cloud=cloud)
 
-with open('data.json', 'r') as dat:
+with open(dat_file, 'r') as dat:
     data = json.load(dat)
 
 def make_net(conn, data):
