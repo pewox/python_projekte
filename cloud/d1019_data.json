@@ -1,0 +1,14 @@
+{
+    "proj_nr": "1019",
+    "dns_domain_suffix": ".ct.thvc.de.",
+    "start_proj_id": "jtuz57#e8ztu",
+    "target_proj_id": "r4540d#+sgwr",
+    "rbac_obj_type" : "network",
+    "ip_version" : 4,
+    "cdir": "10.19.0.0/24",
+    "snet_pool_pref": [
+        "10.19.0.0/23"
+    ],
+    "dest_cidr": "10.44.0.0/24",
+    "transfer_port" : "1019-shared-p"
+}
