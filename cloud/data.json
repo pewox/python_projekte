@@ -1,0 +1,17 @@
+{
+    "proj_nr": "pw1019",
+    "dns_domain_suffix": ".ct.thvc.de.",
+    "start_proj_id": "jtuz57#e8ztu",
+    "target_proj_id": "r4540d#+sgwr",
+    "rbac_obj_type" : "network",
+    "ip_version" : 4,
+    "start_cdir": "10.19.0.0/24",
+    "target_cidr": "10.44.0.0/24",
+    "start_snet_pool_prefixes": [
+        "10.19.0.0/23"
+    ],
+    "target_snet_pool_prefixes": [
+        "10.19.0.0/23"
+    ],
+    "dest_cidr": "10.44.0.0/24"
+}

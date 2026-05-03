@@ -1,0 +1,14 @@
+---
+- hosts: all
+  become: true
+  tasks:
+  - name: Install mlocate
+    yum: name=mlocate state=installed
+
+  - name: Run updatedb
+    command: /usr/bin/updatedb
+    async: 400
+    poll: 0
+
+  - name: ping
+    ping:
