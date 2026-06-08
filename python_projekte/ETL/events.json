@@ -1,0 +1,2927 @@
+{
+    "title": "EONET Events",
+    "description": "Natural events from EONET.",
+    "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events",
+    "events": [
+        {
+            "id": "EONET_18423",
+            "title": "Tropical Cyclone 26S",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18423",
+            "categories": [
+                {
+                    "id": 10,
+                    "title": "Severe Storms"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "JTWC",
+                    "url": "https://www.metoc.navy.mil/jtwc/products/sh2626.tcw"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-06T00:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        113.7,
+                        -15.8
+                    ]
+                },
+                {
+                    "date": "2026-03-06T06:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        113.4,
+                        -15.9
+                    ]
+                },
+                {
+                    "date": "2026-03-06T12:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        112.9,
+                        -15.9
+                    ]
+                },
+                {
+                    "date": "2026-03-06T18:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        112.5,
+                        -16.1
+                    ]
+                },
+                {
+                    "date": "2026-03-07T00:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        111.8,
+                        -16.5
+                    ]
+                },
+                {
+                    "date": "2026-03-07T06:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        110.2,
+                        -17.2
+                    ]
+                },
+                {
+                    "date": "2026-03-07T12:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        108.9,
+                        -17.6
+                    ]
+                },
+                {
+                    "date": "2026-03-07T18:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        107.7,
+                        -17.5
+                    ]
+                },
+                {
+                    "date": "2026-03-08T00:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        106.6,
+                        -18
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18406",
+            "title": "Tropical Cyclone 25S",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18406",
+            "categories": [
+                {
+                    "id": 10,
+                    "title": "Severe Storms"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "JTWC",
+                    "url": "https://www.metoc.navy.mil/jtwc/products/sh2526.tcw"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-03T18:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        108.8,
+                        -11.7
+                    ]
+                },
+                {
+                    "date": "2026-03-04T00:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        109.2,
+                        -11.7
+                    ]
+                },
+                {
+                    "date": "2026-03-04T06:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        109.4,
+                        -11.7
+                    ]
+                },
+                {
+                    "date": "2026-03-04T12:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        110.2,
+                        -11.4
+                    ]
+                },
+                {
+                    "date": "2026-03-04T18:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        111.4,
+                        -11
+                    ]
+                },
+                {
+                    "date": "2026-03-05T00:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        113.3,
+                        -10.7
+                    ]
+                },
+                {
+                    "date": "2026-03-05T06:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        115.9,
+                        -10.8
+                    ]
+                },
+                {
+                    "date": "2026-03-05T12:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        118.9,
+                        -11.9
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18309",
+            "title": "TUS Wolfe Ridge RX Prescribed Fire, Clay, North Carolina",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18309",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/ff5167a7-a46e-4c63-ab46-7816a95525f8"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-02T12:34:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -83.82495,
+                        35.120333
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18308",
+            "title": "Raven Rock D/Pilgrims Rest A RX Prescribed Fire, Cleburne, Alabama",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18308",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/2fc5266d-eb4d-4dcf-b53d-c7a0165da19e"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-02T09:24:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -85.489226,
+                        33.818256
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18317",
+            "title": "BSW 05/06 RX Prescribed Fire, Covington, Alabama",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18317",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/ca3fadd4-cea3-4c3b-84cd-6ee8d990668c"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-01T09:14:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -86.576534,
+                        31.122318
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18311",
+            "title": "RX Mount Ida 18 25 29 Prescribed Fire, Montgomery, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18311",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/576b16d9-b46d-4e5e-a480-4a2f010a390e"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-01T09:08:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.693889,
+                        34.546944
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18318",
+            "title": "RX CAT BU 52 Prescribed Fire, Grant, Louisiana",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18318",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/cc0bbaea-0f94-4ac4-bf23-d3306fef7505"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-01T08:57:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.441277,
+                        31.623577
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18314",
+            "title": "RX Redbank Units 456 Prescribed Fire, Garland, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18314",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/210ac734-8fbc-460b-b8ee-3e84e4892bc8"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-01T08:44:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.3748,
+                        34.641383
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18313",
+            "title": "RX Johnson Creek 3 Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18313",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a2e2b764-ac95-44dd-8eca-a9d84f040ebe"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-03-01T08:20:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.205,
+                        34.7025
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18323",
+            "title": "East Range Unit A RX Prescribed Fire, Pulaski, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18323",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/48d993b6-27a0-4ed4-88c3-28679e2c9de6"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T20:37:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.1398,
+                        37.6896
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18315",
+            "title": "Kellogg Wildfire, Schleicher, Texas",
+            "description": "3 Miles W from Eldorado, TX",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18315",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/ccf202c0-b2a3-42b5-bc5d-b0b4bd95f8dc"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T15:05:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -100.646594,
+                        30.8553797
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18312",
+            "title": "Bascom Road Wildfire, Pittsburg, Oklahoma",
+            "description": "4 Miles SW from Quinton, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18312",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/6705e174-8de7-4797-a45e-0a3715ad1c27"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T13:32:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.3933333,
+                        35.0777778
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18326",
+            "title": "RX Rorie North 2 Prescribed Fire, Baxter, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18326",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/42ea24c3-f02c-4089-b97e-0175f1fed2c3"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T09:37:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.223,
+                        36.064033
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18320",
+            "title": "Bunker South RX Prescribed Fire, Dent, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18320",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/ac833ec5-54b1-4be8-9fbb-e155fa09ed4c"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T09:36:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -91.2232,
+                        37.4177
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18324",
+            "title": "RX PCS Freedom Mountain Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18324",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/9cca1a5b-66b1-4cc5-bb27-4dbf57a4952c"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T09:28:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.844135,
+                        34.946504
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18328",
+            "title": "RX OKWMR Interior Pastures Prescribed Fire, Comanche, Oklahoma",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18328",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/c3f04edd-f9de-433a-9326-b800552455f8"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T09:22:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -98.700088,
+                        34.74373
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18325",
+            "title": "RX Daniels Mt and Greenshaw Prescribed Fire, Newton, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18325",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/96167d9b-cc2a-423d-bfb8-ef8e686fbaaf"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T09:01:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.016036,
+                        35.807322
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18332",
+            "title": "RX South Fouche Cove Unit 1 Prescribed Fire, Yell, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18332",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/922e5760-1ff4-4da5-8b97-516e9d08664a"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T08:30:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.266111,
+                        35.045278
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18331",
+            "title": "RX Fourmile Prescribed Fire, Yell, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18331",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a60dacf7-de27-46dd-9994-93a23299ceae"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T08:17:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.708333,
+                        34.746667
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18327",
+            "title": "RX Gap Creek12 13 14 Hickory Nut Mountain Prescribed Fire, Garland, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18327",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/1c866891-2e7e-4652-a97f-1b7162d2193f"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T08:06:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.389444,
+                        34.564722
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18333",
+            "title": "RX Fish Fry I &amp; II Prescribed Fire, McCurtain, Oklahoma",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18333",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/5d7b4527-ca6f-42f0-a3be-ba6d91f9abb1"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T08:00:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.646917,
+                        34.083444
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18316",
+            "title": "Doke Number Two Wildfire, Atoka, Oklahoma",
+            "description": "8 Miles E from Atoka, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18316",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/8a9aa93a-194d-4653-9fbe-6606a32cc500"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-28T00:14:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.9663889,
+                        34.3491667
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18329",
+            "title": "Preusch-Smith RX Prescribed Fire, Pulaski, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18329",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/8cc83a05-954d-4e61-9f9a-2d7c35df7098"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T16:32:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.355833,
+                        37.703333
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18334",
+            "title": "RADAR RD (53) Wildfire, Polk, Florida",
+            "description": "8 Miles NW from FORT GREEN, FL",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18334",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/9ecf0987-1e61-452c-bde9-2c958196c73b"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T14:51:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -82.0230556,
+                        27.7002778
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18336",
+            "title": "RX White Oak East Prescribed Fire, Pope, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18336",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/939c8615-3547-4d4b-9ede-7f589b560de8"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T11:59:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.866667,
+                        35.45
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18338",
+            "title": "RX PCS Square Rock 1 and 2 Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18338",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/20e10c7b-67fd-431d-953d-c540558e8488"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T09:58:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.991881,
+                        34.958993
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18346",
+            "title": "Mill Buzzard RX Prescribed Fire, Shannon, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18346",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/c388204b-ac0f-403a-9b6c-cd4145fa4ae2"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T09:30:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -91.205578,
+                        37.109682
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18347",
+            "title": "Rocky Branch RX Prescribed Fire, Texas, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18347",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/37d6e4a0-0a80-457c-8319-9604ac76e060"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T09:30:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.026333,
+                        37.494667
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18345",
+            "title": "Pineknot South RX Prescribed Fire, Carter, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18345",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/44f05626-b9b4-4fb6-a59e-f8b087a4ab1e"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T09:15:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -91.150517,
+                        36.888042
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18337",
+            "title": "RX CAT BU 36 Prescribed Fire, Grant, Louisiana",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18337",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/1167eb51-6b94-463f-87a4-d28fc2644115"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T09:09:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.452683,
+                        31.64027
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18341",
+            "title": "RX Buff Creek Bill Prescribed Fire, Searcy, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18341",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/d4d169c8-e471-4277-9fba-c53afe27a32f"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:50:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.929167,
+                        35.964444
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18340",
+            "title": "RX Pink Twist Prescribed Fire, Franklin, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18340",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/e26488c2-49be-4b76-b6ca-b617a4248f36"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:48:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.736714,
+                        35.654164
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18339",
+            "title": "RX Buffalo Danny Prescribed Fire, McCurtain, Oklahoma",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18339",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/ca85ca95-2720-4013-8049-7915162222de"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:45:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.66835,
+                        34.3801
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18343",
+            "title": "SUNRISE Wildfire, Okfuskee, Oklahoma",
+            "description": "10 Miles NE from Okemah, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18343",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/30b2a420-caaf-4c71-ab29-c694c8f2cc92"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:44:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -96.156944,
+                        35.504167
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18342",
+            "title": "RX MO West 33 Prescribed Fire, Montgomery, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18342",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/67c38a5c-dfaa-4535-85ff-211055931440"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:41:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.779722,
+                        34.708889
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18335",
+            "title": "RX WINN BU 65 Prescribed Fire, Winn, Louisiana",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18335",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a900e422-fb8d-4b39-a015-8dc3eca61951"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:40:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.7625,
+                        31.882222
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18349",
+            "title": "Rx Hardin 1762 Prescribed Fire, Hardin, Texas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18349",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/c77ddc48-b144-4ad0-8766-1ff5626cca3b"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:11:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.14638889,
+                        30.24694444
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18350",
+            "title": "Rx Trinity 1763 Prescribed Fire, Trinity, Texas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18350",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/e6c87b44-a536-46d9-adc7-fc18dcbc8d88"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:11:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.9552,
+                        31.3259
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18351",
+            "title": "Rx Houston 1860 Prescribed Fire, Houston, Texas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18351",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a4967730-7266-4eb8-ada0-0a4efb78f606"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:11:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.00019,
+                        31.36591
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18352",
+            "title": "Rx Trinity 1851 Prescribed Fire, Trinity, Texas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18352",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/9643988a-a387-4682-abfd-2e90e916f081"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:11:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.9326,
+                        31.3075
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18353",
+            "title": "Rx Anderson 1713 Prescribed Fire, Anderson, Texas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18353",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a977c6b1-0b58-4c4d-92c1-22692cf00909"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:09:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.880324,
+                        31.971722
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18354",
+            "title": "Rx Lamar 1874 Prescribed Fire, Lamar, Texas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18354",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/4fc96604-0ed2-4e67-bd30-038dc0b8cf20"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:09:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.70222222,
+                        33.80583333
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18355",
+            "title": "Rx Morris 1706 Prescribed Fire, Morris, Texas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18355",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/9bb771c6-2151-48a0-bc88-85f5e9596749"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:09:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.70361111,
+                        33.27277778
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18344",
+            "title": "RX CALV BU 102-105 Prescribed Fire, Vernon, Louisiana",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18344",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/9a130b2c-c959-4344-862a-ab98a88085a5"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-27T08:03:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.16275,
+                        30.987783
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18310",
+            "title": "Rehder Creek Wildfire, Musselshell, Montana",
+            "description": "16 Miles S from RoundUp, MT",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18310",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/834e2187-f377-4a7a-8782-2de682647c38"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T17:33:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -108.43738,
+                        46.30904
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18364",
+            "title": "RX Bomag Bell Springs Prescribed Fire, Logan, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18364",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/c7766041-153a-4d57-9dda-652b0d377519"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T10:19:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.4717,
+                        35.232383
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18358",
+            "title": "RX PCS Sugar Creek 3 Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18358",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/87a9cd11-a9c2-4f27-aefe-6ddef996ef18"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T09:37:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.830645,
+                        35.007356
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18154",
+            "title": "HORSE HEAD Wildfire, Okfuskee, Oklahoma",
+            "description": "1 Miles SE from Weleetka, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18154",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/b2490ce2-4e62-4e7a-bd33-fac98a8da835"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T09:34:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -96.116667,
+                        35.308056
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18357",
+            "title": "RX PCS McConnell 2 and 3 Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18357",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/33567c51-281d-4736-9c06-606aa9e8426c"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T09:30:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.05651,
+                        34.71777
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18365",
+            "title": "RX White Oak East Prescribed Fire, Pope, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18365",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/1764c651-8589-43ec-92f9-0130ceeb8ad6"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T09:19:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.875139,
+                        35.453047
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18367",
+            "title": "RX CALE BU 374 Prescribed Fire, Rapides, Louisiana",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18367",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/befa1c6c-185b-4b2e-91f3-09a439ab6ce0"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T09:15:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.588,
+                        31.108
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18361",
+            "title": "RX Gobbler&#039;s Knob Prescribed Fire, Newton, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18361",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/76abd19b-d2a2-4c64-aaad-4b484a2ed4b2"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T09:12:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.362228,
+                        35.736428
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18363",
+            "title": "RX Whiskey Springs 2 Prescribed Fire, Crawford, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18363",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/29f27e34-d04e-4e76-8438-ad5d799c686a"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T08:52:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.3199,
+                        35.7273
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18360",
+            "title": "RX Hog Jaw 3 8 10 11 13 Mt Ida 3 Prescribed Fire, Montgomery, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18360",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/5ff54a74-8982-4be8-9c56-117a859ec7f8"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T08:47:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.725833,
+                        34.588333
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18149",
+            "title": "RX Cedar East Prescribed Fire, Johnson, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18149",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/e78a99c7-fa11-4aee-b02b-08a3a74d9860"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T08:30:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.325531,
+                        35.671811
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18356",
+            "title": "RX FY26 BUFF Lower Wilderness BIL Prescribed Fire, Marion, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18356",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/bd034395-7d2d-46cb-b4da-fa84b19c1595"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T08:16:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.468611,
+                        36.136111
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18362",
+            "title": "RX Buffalo 1856/57 Prescribed Fire, McCurtain, Oklahoma",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18362",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a809ffc1-7dd8-42fa-8ee3-14c1f4399a80"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T08:09:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.67,
+                        34.3986
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18366",
+            "title": "RX Thorpe Mountain Prescribed Fire, Montgomery, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18366",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/d9dd2e76-c09a-498c-b6f7-8e46646898cc"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-26T08:05:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.584722,
+                        34.723889
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18145",
+            "title": "Turkey Creek Wildfire, Creek, Oklahoma",
+            "description": "4 Miles E from Slick, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18145",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/62f49341-8aa5-4fa0-94a8-bce4f0d22d52"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T20:11:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -96.2105556,
+                        35.7958333
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18151",
+            "title": "Kataja Wildfire, Perry, Mississippi",
+            "description": "5 Miles SW from New Augusta, MS",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18151",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/2a018699-9326-4c41-a1c3-5f1a5f07a519"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T19:37:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -89.0786,
+                        31.124167
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18148",
+            "title": "113 Wildfire, Logan, Colorado",
+            "description": "5 Miles S from Peetz, CO",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18148",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/932ca533-3cd2-4c42-beb2-d1cfd5afff50"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T16:38:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -103.115594,
+                        40.935094
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18155",
+            "title": "CRAWFORD Wildfire, Osage, Oklahoma",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18155",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/07bf4614-3cd5-46ca-8f6a-7b97eb3022d0"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T16:28:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -96.34903,
+                        36.39913
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18359",
+            "title": "Hancock - Texas Flat Rd/607 Wildfire, Hancock, Mississippi",
+            "description": "6 Miles SE from Picayune, MS",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18359",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/64e4a04c-7275-4182-ba0c-f53de1d9e10a"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T16:02:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -89.6483333,
+                        30.4469444
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18175",
+            "title": "RX KENWOOD 38 Prescribed Fire, Delaware, Oklahoma",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18175",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/d454bf89-6852-473c-8299-06283d06301b"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T11:47:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.815864,
+                        36.318541
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18162",
+            "title": "Wolf Mountain RX Prescribed Fire, Ripley, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18162",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/62a15f43-9064-4d0f-99f4-1dc8ab9b3e99"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T10:57:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -91.107667,
+                        36.644533
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18348",
+            "title": "IDBR - COLSP F1 RX Prescribed Fire, Lake, Illinois",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18348",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/713f9d79-f83e-45ba-aa79-d55bd93bd7ff"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T10:22:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -88.186847,
+                        42.451297
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18158",
+            "title": "Box Springs Road Wildfire, Pushmataha, Oklahoma",
+            "description": "5 Miles NE from Tuskahoma, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18158",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a215f544-b978-4802-bcb6-73bf776317c6"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T09:45:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.22,
+                        34.6688889
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18176",
+            "title": "Handy RX Prescribed Fire, Ripley, Missouri",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18176",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/a6bd1c53-5a6e-4d70-8468-d03e0a97150f"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T09:29:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -91.096444,
+                        36.797648
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18156",
+            "title": "RX Gobbler&#039;s Knob Blackline Prescribed Fire, Newton, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18156",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/81a6af96-9302-4ba7-bc0b-4f39fc349e68"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T09:26:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.35,
+                        35.733333
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18322",
+            "title": "Compartment 25 RX Prescribed Fire, Bibb, Alabama",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18322",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/20739f07-012b-41c5-ab0b-616bb3609113"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:58:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -87.363315,
+                        32.970162
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18321",
+            "title": "Talladega Mtn RX Prescribed Fire, Talladega, Alabama",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18321",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/b538e38d-5f27-4023-978c-1f3ab3c7b4f1"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:56:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -86.01308,
+                        33.33258
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18160",
+            "title": "RX PCS Holly Mountain North Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18160",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/dc888872-7a48-45e4-bef2-ae9b03b3c177"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:49:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.832312,
+                        34.827324
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18169",
+            "title": "Compartment 50 RX Prescribed Fire, Bibb, Alabama",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18169",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/fefbd0ba-f17e-4e30-b4d8-a4645a5425af"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:49:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -87.405038,
+                        32.911717
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18163",
+            "title": "RX PCS Key Mountain West Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18163",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/70d73811-f5e2-4e28-aed8-7366a049d7d0"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:48:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.105611,
+                        34.769488
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18164",
+            "title": "RX John Turner Prescribed Fire, Franklin, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18164",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/c145b4bf-31e9-4561-ac38-8f206f1bde76"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:31:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.862,
+                        35.683
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18165",
+            "title": "RX Crystal Mountain Prescribed Fire, Garland, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18165",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/536e04f4-1e03-44a2-9523-cf35c8f9cf24"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:26:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.391944,
+                        34.536389
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18179",
+            "title": "Compartment 112 RX Prescribed Fire, Jasper, Georgia",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18179",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/59196f63-09ea-4bde-af21-b5a1293f7bc8"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:13:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -83.73645,
+                        33.2019
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18166",
+            "title": "RX BEAR CREEK Prescribed Fire, McCurtain, Oklahoma",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18166",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/67b63c2c-cde7-4144-8736-8c17fce99f4e"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:12:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.7796,
+                        34.267463
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18168",
+            "title": "29B/29C RX Prescribed Fire, Jones, Georgia",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18168",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/0c99e7fc-619f-4c91-b7e6-5cf9161ec461"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:08:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -83.6737,
+                        33.0255
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18171",
+            "title": "RX Cedar Fork Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18171",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/48a0d274-229a-428a-98ee-6ad162b5745d"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:06:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.839722,
+                        34.7575
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18172",
+            "title": "RX Avant 4 5 6 Prescribed Fire, Garland, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18172",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/de9c81a1-d8bd-40d0-8b40-d7c5d59fbf33"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:06:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.346278,
+                        34.615
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18178",
+            "title": "RX Lapile Crk South/Shallow Lake Prescribed Fire, Union, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18178",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/9f899fca-1296-4b37-a168-3662e4c7f39f"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T08:02:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.1868,
+                        33.1189
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18170",
+            "title": "RX Redbank Units 1 2 3 Prescribed Fire, Montgomery, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18170",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/3f197254-f392-428e-93f8-2b5d8e8215a0"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-25T07:59:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.397389,
+                        34.708917
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18159",
+            "title": "Flat Creek Wildfire, Cass, Texas",
+            "description": "12 Miles NW from Linden, TX",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18159",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/e33be83d-833e-4008-b0df-18090da06ce1"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T21:26:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.51193333,
+                        33.13293333
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18161",
+            "title": "Upton Road Wildfire, Texas, Missouri",
+            "description": "20 Miles NW from Houston, MO",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18161",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/5cd5da4f-e543-4e90-a3c8-e9bc2551fb35"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T18:04:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.1983,
+                        37.374833
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18147",
+            "title": "Nebo Mountain Wildfire, Gillespie, Texas",
+            "description": "14 Miles NE from Fredericksburg, TX",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18147",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/24bb3a9e-08a3-440d-8546-1c60d85ba6f6"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T18:03:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -98.746777,
+                        30.440144
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18157",
+            "title": "Willard Wildfire, Dallam, Texas",
+            "description": "9 Miles W from Stratford, TX",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18157",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/45da5c5c-23f5-4161-8562-421ad73a7b4b"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T17:34:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -102.24182,
+                        36.29863
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18153",
+            "title": "ALABAMA CREEK Wildfire, Okfuskee, Oklahoma",
+            "description": "1 Miles SW from Clearview, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18153",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/401163c4-fa20-48d7-9a22-1914a7160b63"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T16:07:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -96.207222,
+                        35.375278
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18146",
+            "title": "Cypress Creek Wildfire, Angelina, Texas",
+            "description": "5 Miles SE from Zavalla, TX",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18146",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/8432b888-2a01-4825-8eb6-c74589de24fc"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T14:16:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -94.3567,
+                        31.0586
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18182",
+            "title": "RX Pilot Knob Prescribed Fire, Montgomery, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18182",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/c216cf3d-31e4-45b9-b15a-86ed6130e26d"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T10:16:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.725278,
+                        34.725556
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18177",
+            "title": "RX Optimus South Prescribed Fire, Stone, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18177",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/1c6d0db1-2dc9-46f5-a32e-baa537524585"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T09:36:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -92.072583,
+                        36.035861
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18181",
+            "title": "RX PCS Kingdoodle Prescribed Fire, Scott, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18181",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/4170dcb8-102a-4ced-9d09-f33c86be5de4"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T09:34:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.847919,
+                        34.959516
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18187",
+            "title": "RX FY26 North River Road  BIL Prescribed Fire, Newton, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18187",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/1325b624-bc1f-46e2-8d4a-eeccecb50aad"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T09:26:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.163889,
+                        36.059167
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18174",
+            "title": "IDNR - Cache RIver SNA RX Prescribed Fire, Johnson, Illinois",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18174",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/380b6c6e-5edf-4668-9d4c-2f9536cf2dd9"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T09:25:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -88.941,
+                        37.336
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18180",
+            "title": "RX Little Fir 16 Prescribed Fire, Montgomery, Arkansas",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18180",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/fb76b32d-6e70-4ec3-a622-c9f45ed90265"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T09:03:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -93.451667,
+                        34.611389
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18186",
+            "title": "19S/20N RX Prescribed Fire, Jones, Georgia",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18186",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/ae6a5759-d3b8-46ef-a0a1-2d4bf775f315"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T08:21:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -83.73,
+                        33.0759
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18183",
+            "title": "Compartment 23/24 RX Prescribed Fire, Hale, Alabama",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18183",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/ba4203db-4437-42be-a7ab-ecdb158ae25c"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-24T07:57:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -87.435335,
+                        32.965332
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18173",
+            "title": "Savage Highway Wildfire, Pittsburg, Oklahoma",
+            "description": "6 Miles S from Hartshorne, OK",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18173",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/77b5abd0-1e7a-4f14-8a42-4b4547de99e3"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-23T22:10:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.58,
+                        34.7519444
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18167",
+            "title": "Boggy Wilderness Wildfire, Houston, Texas",
+            "description": "9 Miles NE from Alto, TX",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18167",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/9a0c11ab-23d9-4ee7-81c1-af98f8479494"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-23T17:35:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -95.111848,
+                        31.510818
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "EONET_18085",
+            "title": "Holmes Chapel RX Prescribed Fire, Winston, Alabama",
+            "description": "",
+            "link": "https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_18085",
+            "categories": [
+                {
+                    "id": 8,
+                    "title": "Wildfires"
+                }
+            ],
+            "sources": [
+                {
+                    "id": "IRWIN",
+                    "url": "https://irwin.doi.gov/observer/incidents/7cd64562-f846-4c57-ae33-fc6887dd9515"
+                }
+            ],
+            "geometries": [
+                {
+                    "date": "2026-02-23T09:55:00Z",
+                    "type": "Point",
+                    "coordinates": [
+                        -87.266682,
+                        34.269135
+                    ]
+                }
+            ]
+        }
+    ]
+}

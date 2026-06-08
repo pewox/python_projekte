@@ -52,7 +52,7 @@ def create_inventory(groups, vm_obj, out_file):
             else:
                 inventory[grp] = [(vm_obj[i]['name'])]
     with open(f'{out_file}','w') as inv:
-        inv.write('---\n' + yaml.safe_dump(inventory) + '---\n')
+        inv.write(f'---\n{yaml.safe_dump(inventory,indent=2)}\n---')
 
 if __name__=='__main__':
     create_inventory(groups, vm_dat, file)
