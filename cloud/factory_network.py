@@ -72,3 +72,4 @@ def make_port(conn, data, net, snet):
             network_id = net.id,
             fixed_ips = [snet.id]
         )
+        LOG.info(f"Port OK: {port.name}")
