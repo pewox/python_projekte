@@ -47,3 +47,12 @@ my_project = conn.identity.find_project("my-project-name")
 
 target_project = conn.identity.find_project("engineering")
 new_conn = conn.connect_as_project(target_project.name)
+
+############## list projects ######################
+https://docs.openstack.org/openstacksdk/latest/user/guides/identity.html
+https://docs.openstack.org/openstacksdk/latest/user/connection.html
+############## get_project(name_or_id, filters=None, domain_id=None) #############
+############ get_network(name_or_id, filters=None) ######################
+################### list_networks(filters=None) #################
+################# list_projects(domain_id=None, name_or_id=None, filters=None) ##############
+
