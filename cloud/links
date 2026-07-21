@@ -2,6 +2,16 @@ https://docs.openstack.org/openstacksdk/latest/user/proxies/network.html
 https://docs.openstack.org/openstacksdk/latest/user/resources/network/v2/subnet.html#openstack.network.v2.subnet.Subnet
 https://docs.openstack.org/openstacksdk/latest/user/resources/network/v2/network.html#openstack.network.v2.network.Network
 
+####################################################
+https://docs.openstack.org/openstacksdk/latest/user/connection.html
+
+List
+An iterator containing a list of all the projects is retrieved in this manner:
+
+projects = conn.identity.projects()
+
+##################################################
+
 import openstack
 
 # Verbindung zum OpenStack aufbauen (z. B. über clouds.yaml)
@@ -26,3 +36,14 @@ project = conn.identity.get_project(project_id)
 
 print(f"Projekt Name: {project.name}")
 print(f"Projekt Beschreibung: {project.description}")
+
+for project in conn.identity.projects():
+    print(project.name, project.id)
+
+
+project = conn.identity.projects(name="my-project-name")
+
+my_project = conn.identity.find_project("my-project-name")
+
+target_project = conn.identity.find_project("engineering")
+new_conn = conn.connect_as_project(target_project.name)
