@@ -1,3 +1,28 @@
 https://docs.openstack.org/openstacksdk/latest/user/proxies/network.html
 https://docs.openstack.org/openstacksdk/latest/user/resources/network/v2/subnet.html#openstack.network.v2.subnet.Subnet
 https://docs.openstack.org/openstacksdk/latest/user/resources/network/v2/network.html#openstack.network.v2.network.Network
+
+import openstack
+
+# Verbindung zum OpenStack aufbauen (z. B. über clouds.yaml)
+conn = openstack.connect()
+
+# Die Projekt-ID auslesen und ausgeben
+project_id = conn.current_project_id
+print(f"Die aktuelle Projekt-ID ist: {project_id}")
+
+import os
+
+project_id = os.environ.get('OS_PROJECT_ID')
+print(f"Projekt-ID aus Umgebungsvariablen: {project_id}")
+
+import openstack
+
+conn = openstack.connect()
+
+# Projekt-Details anhand der ID abrufen
+project_id = "IHRE_PROJEKT_ID_HIER"
+project = conn.identity.get_project(project_id)
+
+print(f"Projekt Name: {project.name}")
+print(f"Projekt Beschreibung: {project.description}")
